@@ -16,10 +16,16 @@ I have made the following updates to the provided Python file for this assignmen
 
 # Technolodgies 
 
-### datetime - Datetime in Python is the combination between dates and times. The attributes of this class are similar to both date and separate classes. These attributes include day, month, year, minute, second, microsecond, hour, and tzinfo.
-### streamlit - Streamlit is an open source app framework in Python language. It helps us create web apps for data science and machine learning in a short time. It is compatible with major Python libraries such as scikit-learn, Keras, PyTorch, SymPy(latex), NumPy, pandas, Matplotlib etc.
-### pandas - Pandas is a Python library used for working with data sets. It has functions for analyzing, cleaning, exploring, and manipulating data.
-### hashlib - Hashlib is a Python module that implements an interface to different secure hash algorithms and digest algorithms. Hashlib is a secure hash and message digest algorithm library. 
+- datetime - Datetime in Python is the combination between dates and times. The attributes of this class are similar to both date and separate classes. These attributes include day, month, year, minute, second, microsecond, hour, and tzinfo.
+- streamlit - Streamlit is an open source app framework in Python language. It helps us create web apps for data science and machine learning in a short time. It is compatible with major Python libraries such as scikit-learn, Keras, PyTorch, SymPy(latex), NumPy, pandas, Matplotlib etc.
+- pandas - Pandas is a Python library used for working with data sets. It has functions for analyzing, cleaning, exploring, and manipulating data.
+- hashlib - Hashlib is a Python module that implements an interface to different secure hash algorithms and digest algorithms. Hashlib is a secure hash and message digest algorithm library. 
+
+# Usage
+
+![Screenshot 2022-12-19 at 7 47 32 am](https://user-images.githubusercontent.com/108632632/208318832-e43b33e2-c3db-45f6-a968-63a89c08fec6.png)
+
+
 
 # Contributor
 
