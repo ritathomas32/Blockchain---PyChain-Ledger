@@ -25,6 +25,9 @@ I have made the following updates to the provided Python file for this assignmen
 
 ![Screenshot 2022-12-19 at 7 47 32 am](https://user-images.githubusercontent.com/108632632/208318832-e43b33e2-c3db-45f6-a968-63a89c08fec6.png)
 
+![Screenshot 2022-12-19 at 8 16 26 am](https://user-images.githubusercontent.com/108632632/208320054-0d1d93fd-13a0-49e9-9efe-3c146ddd8a49.png)
+
+![Screenshot 2022-12-19 at 8 16 46 am](https://user-images.githubusercontent.com/108632632/208320059-a82d5a60-d535-4763-837b-6b8ccc175754.png)
 
 
 # Contributor
